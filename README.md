@@ -13,3 +13,6 @@ Fehler in der Eingabe => Fehler in der Ausgabe
 Keine Information => keine (qualifizierte) Antwort
 
 Es gibt eine lange Liste an möglichen technischen Verbesserungen; dies ist mir bewusst, aber der Hauptzweck wird gut erfüllt.
+
+
+The pictures are from Pixabay.
